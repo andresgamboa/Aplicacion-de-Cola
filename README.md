@@ -1,6 +1,6 @@
 # INTRODUCCION A LOS SOCKETS #
 
-Este es mi primera introduccion a los sockets.
+Este es mi primera introduccion a los sockets con un proyecto de colas.
 
 Por favor asegurarse de reconstruir los modulos de node, usando el comando:
 
